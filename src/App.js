@@ -137,7 +137,7 @@ function App() {
         ref={audioRef}
         autoPlay
         loop
-        src="/bg.mp3"
+        src="../public/bg.mp3"
         volume="0.5"
       />
       

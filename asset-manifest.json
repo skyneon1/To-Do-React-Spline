@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/To-Do-React-Spline/static/css/main.28396842.css",
+    "main.js": "/To-Do-React-Spline/static/js/main.245253ab.js",
+    "static/js/453.a6a97343.chunk.js": "/To-Do-React-Spline/static/js/453.a6a97343.chunk.js",
+    "index.html": "/To-Do-React-Spline/index.html",
+    "main.28396842.css.map": "/To-Do-React-Spline/static/css/main.28396842.css.map",
+    "main.245253ab.js.map": "/To-Do-React-Spline/static/js/main.245253ab.js.map",
+    "453.a6a97343.chunk.js.map": "/To-Do-React-Spline/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28396842.css",
+    "static/js/main.245253ab.js"
+  ]
+}
